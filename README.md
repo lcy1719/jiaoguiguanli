@@ -1,8 +1,3 @@
->**代码包运行启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！有不懂的地方随便问！问到会为止！**
-
-## 源码获取（4.9米）：
-![微信图片_20241218164848](https://github.com/user-attachments/assets/728a9cbf-c99d-4183-8970-3884ed6287c1)
-
 【技术栈】
 ①：架构: B/S、MVC
 ②：系统环境：Windows
@@ -12,6 +7,9 @@
 角色：管理员，普通用户
 1.管理员可以完成几乎全部的操作，资讯管理、警示教育管理、通告管理、驾驶员信息管理、车辆信息管理、维修信息管理、报废信息管理、用户信息管理、留言管理
 2.普通用户可以查看资讯，查看警示教育，查看通告，查看维修信息，查看互动信息，查看个人信息等
+> **代码提供有偿远程调试，29包启动成功！不管你有没有运行环境，哪怕你是刚买的新电脑，也包启动运行成功！提供有偿讲解，有不懂的地方随便问！问到会为止！**
+## 源码获取（4.9元包含代码+数据库+有的送报告文档具体扫码询问，代码截图、功能效果截图在下面）：
+![微信图片_20241218164848](https://github.com/user-attachments/assets/646b2784-afb8-47ee-a4d4-5ccc9f96b331)
 ![image](https://github.com/user-attachments/assets/65e7186f-0ee8-4da7-ad7a-1bbd2aebd290)
 ![image](https://github.com/user-attachments/assets/cfe4a670-d6fb-41ab-8d26-65db4fba8b13)
 ![image](https://github.com/user-attachments/assets/b92f1606-8ec4-4b9d-bede-92de707a45a6)
